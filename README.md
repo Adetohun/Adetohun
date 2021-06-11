@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adetohun
-- 👀 I’m an experienced Product Manager
-- 🌱 I’m an intermediate Pythonist
+- 👀 An experienced Product Manager
+- 🌱 Intermediate Pythonist
 - 💞️ I’m looking to collaborate on gamification projects
 - 📫 You can reach me on LinkedIn and Twitter
 
